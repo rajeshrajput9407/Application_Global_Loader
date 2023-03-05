@@ -9,7 +9,7 @@ $("#preloaderBox").fadeOut("slow"); });
 
 Step 2: Add html code in start of Body
 
- <div id="preloaderBox" class="Preloader" style="display: none;"></div> 
+    <div id="preloaderBox" class="Preloader" style="display: none;"></div> 
  
  Step 3: Add css in common css file:
  
